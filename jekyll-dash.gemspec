@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["miguel-gonzalez@gmx.de"]
 
   spec.summary       = "A dark UI theme for Jekyll, inspired by Dash UI for Atom."
-  spec.homepage      = "https://bitbrain.github.io/jekyll-dash"
+  spec.homepage      = "https://github.com/futingx/blog"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_plugins|_sass|LICENSE|README)!i) }
